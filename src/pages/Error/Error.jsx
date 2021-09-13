@@ -1,3 +1,4 @@
+//Código copiado del ejemplo de clase del profesor Kelman Celis
 //This class was taken from the teacher Kelman Celis
 
 import "./Error.css";
